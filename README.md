@@ -1,1 +1,2 @@
 # Breast_Cancer_Prediction
+The Breast Cancer Prediction project employs machine learning techniques to enhance early detection. By analyzing historical medical data, the project develops a predictive model that can accurately classify breast cancer cases as malignant or benign. Through feature analysis and algorithm training, this initiative aims to provide healthcare professionals with a reliable tool for identifying potential cases of breast cancer at an earlier stage.
